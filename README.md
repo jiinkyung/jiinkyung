@@ -6,10 +6,17 @@
 <h6 align="center" >𝘛𝘦𝘤𝘩𝘴 𝘵𝘩𝘢𝘵 𝘐'𝘷𝘦 𝘶𝘴𝘦𝘥 𝘢𝘵 𝘭𝘦𝘢𝘴𝘵 𝘰𝘯𝘤𝘦</h4>
   
   <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=black"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black"></p>
+ 
+  <hr>
+  <h3 align="center"><b> 👩‍💻 𝙈𝙮 𝙂𝙞𝙩𝙝𝙪𝙗 𝙎𝙩𝙖𝙩𝙨 👩‍💻 </b> </h3>
+<div align="center">
   
-  <hr> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiinkyung&theme=buefy&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiinkyung&langs_count=10&layout=compact&theme=buefy)](https://github.com/jiinkyung/jiinkyung/)﻿
+  
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiinkyung&theme=buefy&show_icons=true)
+
+
 
 <hr>
 
