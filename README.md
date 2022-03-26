@@ -11,7 +11,7 @@
   <h3 align="center"><b> 👩‍💻 𝙈𝙮 𝙂𝙞𝙩𝙝𝙪𝙗 𝙎𝙩𝙖𝙩𝙨 👩‍💻 </b> </h3>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiinkyung&theme=buefy&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiinkyung&langs_count=10&layout=compact&theme=buefy)](https://github.com/jiinkyung/jiinkyung/)﻿
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiinkyung&theme=buefy&show_icons=true) 
   
 </div>
 
