@@ -4,7 +4,6 @@
   <h4> 🌙 I am interested in Back-End. </h4>
   <h4> 🌙 I am experiencing various parts of developing. </h4>
   <br>
-  <h2> 𝑺𝒐, 𝑳𝒆𝒕'𝒔 𝒋𝒖𝒔𝒕 𝒌𝒆𝒆𝒑 𝒄𝒐𝒅𝒊𝒏𝒈 ! 🍀</h2>
   
 </div>
 
